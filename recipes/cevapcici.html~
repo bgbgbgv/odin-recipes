@@ -1,0 +1,36 @@
+<h1>
+    Ragu Bolognese
+</h1>
+<img src="../images/lasagna.png">
+<h2>Description</h2>
+<p>
+    Ragou alla bolognese oder ragou bolognese ist eine Hackfleischsauce, die vorwiegend mit Pasta kombiniert wird.
+</p>
+<p>
+    Sie stammt aus dem norditalienischen Bologna und wird dort mit Eiernudeln, vorzugsweise Tagliatelle, serviert.
+</p>
+<h2>Ingredients</h2>
+
+<ul>
+    <li>500g gemischtes Hackfleisch</li>
+    <li>1 Zwiebel</li>
+    <li>2 Knoblauchzehen</li>
+    <li>1 Bund Petersilie</li>
+    <li>1 El Tomatenmark</li>
+    <li>1 Dose geschaelte Tomaten</li>
+    <li> etwas Rotwein</li>
+</ul>
+<h2>Steps</h2>
+<!--
+    :
+
+
+-->
+<ol>
+    <li>In einem Topf das Olivenoel erhitzen</li>
+    <li>Hackfleisch darin rundherum anbraten</li>
+    <li>gehackten Zwiebeln und die gehackte Petersilie dazugeben</li>
+    <li>Knoblauch in feinen Scheiben und Tomatenmark dazu rühren und mitbraten</li>
+    <li>Dosentomaten aufgießen, salzen und pfeffern</li>
+    <li>Rotwein nach Belieben beifügen</li>
+</ol>
